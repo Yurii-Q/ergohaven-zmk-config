@@ -45,7 +45,7 @@
                            &trans     &trans     &trans     &trans     &kp ENTER    &trans      &mo 3         &trans  &kp N0  &kp KP_COMMA
             >;
 
-            display-name = "Navigation";
+            display-name = "Nav";
         };
 
         sym {
